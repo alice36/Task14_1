@@ -21,7 +21,7 @@
   <form method="post" action="waga">
     <input type="text" name="kilogramy" placeholder="kilogramy"><br>
     <input type="text" name="gramy" placeholder="gramy"><br>
-    <input type="text" name="milimramy" placeholder="milimramy"><br>
+    <input type="text" name="miligramy" placeholder="miligramy"><br>
     <input type="submit" value="Przelicz">
   </form>
 </html>
